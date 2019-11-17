@@ -1,5 +1,7 @@
 # Termite Console
 
+[![Build Status](https://travis-ci.org/trydock/docker-termite.svg?branch=master)](https://travis-ci.org/trydock/docker-termite)
+
 ## Run on Docker
 
 I have my Debian (10) Buster workstation. My local username is `anish`
